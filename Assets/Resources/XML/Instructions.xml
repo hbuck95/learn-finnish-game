@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<instructions>
+		<Part_1>
+			<string text="a">The Finnish alphabet is made up of 29 letters without counting those used within loan words, and of these 26 are found in the English language.</string>
+			<string text="b">On this level you will look at all of the characters which make up the Finnish alphabet and will familiarise yourself with their name and pronounciation.</string>
+			<string text="c">When you have finished familiarising yourself and feel ready to move on to the game, press the "Start Game" button at the bottom of the window.</string>
+		</Part_1>
+		
+		<Part_2>
+			<string text="a">This level will expose you to different nouns within the Finnish language.
+
+In total, there are 3 different sets of nouns that you will need to work through: Fruit, Colours, and Animals.</string>
+			<string text="c">The activity will involve constructing the word found in the bottom left corner of the screen by clicking on the correct tiles within the tile area...</string>
+			<string text="d">After constructing the word the translation will then be shown along with a corresponding image.</string>		
+		</Part_2>
+
+    <Part_3>
+      <string text="a">On this level you will use your knowledge of the Finnish language built up over the previous levels.
+      
+You will be presented with 20 cards: 10 with text and 10 with images and text.</string>
+      <string text="c">Drag the image cards onto the matching text in order to create a match and earn points.
+      
+Consecutive matches will earn you bonus points, and for every 5 successive matches you will be awarded 100 bonus points!
+      </string>
+      <string text="e">There is no time limit, but your previous time will be saved in order for you to try to beat.</string>
+    </Part_3>
+	</instructions>

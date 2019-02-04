@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<wordsets>
+		<Fruit>
+			<string text="1">OMENA</string>
+			<string text="2">APPLE</string>
+			<string text="3">KOOKOSPÄHKINÄ</string>
+			<string text="4">COCONUT</string>
+			<string text="5">APPELSIINI</string>
+			<string text="6">ORANGE</string>
+			<string text="7">PÄÄRYNÄ</string>
+			<string text="8">PEAR</string>
+			<string text="9">ANANAS</string>
+			<string text="10">PINEAPPLE</string>
+			<string text="11">MANSIKKA</string>
+			<string text="12">STRAWBERRY</string>
+			<string text="13">VIINIRYPÄLE</string>
+			<string text="14">GRAPES</string>
+			<string text="15">MUSTIKKA</string>
+			<string text="16">BLUEBERRY</string>
+			<string text="17">PERSIKKA</string>
+			<string text="18">PEACH</string>
+			<string text="19">KIRSIKKA</string>
+			<string text="20">CHERRY</string>
+		</Fruit>
+		
+		<Colours>
+			<string text="1">PUNAINEN</string>
+			<string text="2">RED</string>
+			<string text="3">SININEN</string>
+			<string text="4">BLUE</string>
+			<string text="5">KELTAINEN</string>
+			<string text="6">YELLOW</string>
+			<string text="7">VIHREÄ</string>
+			<string text="8">GREEN</string>
+			<string text="9">VALKOINEN</string>
+			<string text="10">WHITE</string>
+			<string text="11">MUSTA</string>
+			<string text="12">BLACK</string>
+			<string text="13">ORANSSI</string>
+			<string text="14">ORANGE</string>
+			<string text="15">SINIPUNAINEN</string>
+			<string text="16">PURPLE</string>
+			<string text="17">PINKII</string>
+			<string text="18">PINK</string>
+			<string text="19">RUSKEA</string>
+			<string text="20">BROWN</string>
+		</Colours>
+		
+		<Animals>
+			<string text="1">KISSA</string>
+			<string text="2">CAT</string>
+			<string text="3">KOIRA</string>
+			<string text="4">DOG</string>
+			<string text="5">KANI</string>
+			<string text="6">RABBIT</string>
+			<string text="7">HEVONEN</string>
+			<string text="8">HORSE</string>
+			<string text="9">KALA</string>
+			<string text="10">FISH</string>
+			<string text="11">ETANA</string>
+			<string text="12">SNAIL</string>
+			<string text="13">LEHMÄ</string>
+			<string text="14">COW</string>
+			<string text="15">KÄÄRME</string>
+			<string text="16">SNAKE</string>
+			<string text="17">HÄMÄHÄKKI</string>
+			<string text="18">SPIDER</string>
+			<string text="19">SORSA</string>
+			<string text="20">DUCK</string>
+		</Animals>
+	</wordsets>

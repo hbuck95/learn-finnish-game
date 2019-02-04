@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<wordsets>
+		<Set_0>
+			<string text="c">KOOKOSPÄHKINÄ</string>
+			<string text="d">COCONUT</string>
+			<string text="q">PERSIKKA</string>
+			<string text="r">PEACH</string>
+			<string text="k">MANSIKKA</string>
+			<string text="l">STRAWBERRY</string>
+			<string text="m">PUNAINEN</string>
+			<string text="n">RED</string>
+			<string text="o">SININEN</string>
+			<string text="p">BLUE</string>
+			<string text="s">KELTAINEN</string>
+			<string text="t">YELLOW</string>
+			<string text="u">VIHREÄ</string>
+			<string text="v">GREEN</string>
+			<string text="w">KISSA</string>
+			<string text="x">CAT</string>
+			<string text="y">KOIRA</string>
+			<string text="z">DOG</string>
+			<string text="a">KANI</string>
+			<string text="b">RABBIT</string>
+		</Set_0>
+		
+		<Set_1>
+ 			<string text="a">ANANAS</string>
+      <string text="b">PINEAPPLE</string>		
+      <string text="c">VALKOINEN</string>
+			<string text="d">WHITE</string>
+      <string text="e">SINIPUNAINEN</string>
+			<string text="f">PURPLE</string>
+      <string text="g">OMENA</string>
+			<string text="h">APPLE</string>
+      <string text="i">KIRSIKKA</string>
+			<string text="j">CHERRY</string>
+      <string text="k">PINKII</string>
+			<string text="l">PINK</string>
+		  <string text="m">APPELSIINI</string>
+			<string text="n">ORANGE-FRUIT</string>
+			<string text="o">PÄÄRYNÄ</string>
+			<string text="p">PEAR</string>
+      <string text="q">SORSA</string>
+			<string text="r">DUCK</string>
+      <string text="s">LEHMÄ</string>
+			<string text="t">COW</string>
+		</Set_1>
+		
+		<Set_2>
+			<string text="a">VIINIRYPÄLE</string>
+			<string text="b">GRAPES</string>
+			<string text="c">MUSTIKKA</string>
+			<string text="d">BLUEBERRY</string>		
+			<string text="e">MUSTA</string>
+			<string text="f">BLACK</string>
+			<string text="g">ORANSSI</string>
+			<string text="h">ORANGE</string>	
+			<string text="i">RUSKEA</string>
+			<string text="j">BROWN</string> 
+			<string text="k">HEVONEN</string>
+			<string text="l">HORSE</string>
+			<string text="m">KALA</string>
+			<string text="n">FISH</string>
+			<string text="o">ETANA</string>
+			<string text="p">SNAIL</string>
+			<string text="q">KÄÄRME</string>
+			<string text="r">SNAKE</string>
+			<string text="s">HÄMÄHÄKKI</string>
+			<string text="t">SPIDER</string>			
+		</Set_2>
+	</wordsets>

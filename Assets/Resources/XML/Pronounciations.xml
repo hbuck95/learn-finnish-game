@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<pronounciation>
+		<alphabet>
+			<string text="0">/ɑː/</string>
+			<string text="1">/beː/</string>
+			<string text="2">/seː/</string>
+			<string text="3">/deː/</string>
+			<string text="4">/eː/</string>
+			<string text="5">/æf/</string>
+			<string text="6">/ɡeː/</string>
+			<string text="7">/hoː/</string>
+			<string text="8">/iː/</string>
+			<string text="9">/jiː/</string>
+			<string text="10">/koː/</string>
+			<string text="11">/æl/</string>
+			<string text="12">/æm/</string>
+			<string text="13">/æn/</string>
+			<string text="14">/oː/</string>
+			<string text="15">/peː/</string>
+			<string text="16">/kuː/</string>
+			<string text="17">/ær/</string>
+			<string text="18">/æs/</string>
+			<string text="19">/teː/</string>
+			<string text="20">/uː/</string>
+			<string text="21">/ʋeː/</string>
+			<string text="22">/ˈkɑk.soisˌʋeː/</string>
+			<string text="23">/æks/</string>
+			<string text="24">/yː/</string>
+			<string text="25">/tset/</string>
+			<string text="26">/ˈruot.sɑˌlɑi.nen oː/</string>
+			<string text="27">/æː/</string>
+			<string text="28">/øː/</string>
+		</alphabet>
+	</pronounciation>
